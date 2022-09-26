@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Cristian/Downloads/webserverSensores/build/CMakeFiles/bootloader
+C:/Users/Cristian/Downloads/webserverSensores/build/CMakeFiles/bootloader.rule
+C:/Users/Cristian/Downloads/webserverSensores/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Cristian/Downloads/webserverSensores/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Cristian/Downloads/webserverSensores/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Cristian/Downloads/webserverSensores/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Cristian/Downloads/webserverSensores/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Cristian/Downloads/webserverSensores/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Cristian/Downloads/webserverSensores/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Cristian/Downloads/webserverSensores/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
